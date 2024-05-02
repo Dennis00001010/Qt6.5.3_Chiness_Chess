@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chess/bbing.png</file>
+        <file>chess/bbracket.png</file>
+        <file>chess/bche.png</file>
+        <file>chess/bma.png</file>
+        <file>chess/bpao.png</file>
+        <file>chess/bshi.png</file>
+        <file>chess/bshuai.png</file>
+        <file>chess/bxiang.png</file>
+        <file>chess/chess_board.png</file>
+        <file>chess/rbracket.png</file>
+        <file>chess/title.png</file>
+        <file>chess/button/btn_confirm.png</file>
+        <file>chess/button/btn_previous_step.png</file>
+        <file>chess/button/btn_start.png</file>
+        <file>chess/rbing.png</file>
+        <file>chess/rche.png</file>
+        <file>chess/rma.png</file>
+        <file>chess/rpao.png</file>
+        <file>chess/rshi.png</file>
+        <file>chess/rshuai.png</file>
+        <file>chess/rxiang.png</file>
+        <file>chess/background/bg.jpg</file>
+        <file>chess/background/bg2.jpg</file>
+        <file>chess/button/btn_exit.png</file>
+        <file>chess/button/btn_restart.png</file>
+    </qresource>
+</RCC>
